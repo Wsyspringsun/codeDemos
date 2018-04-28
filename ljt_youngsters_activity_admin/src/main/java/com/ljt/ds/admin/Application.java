@@ -1,0 +1,18 @@
+package com.ljt.ds.admin;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+/**
+ * spring启动类
+ * 默认扫描本层包和下层包中controller
+ * @author lwk
+ */
+@SpringBootApplication
+public class Application {
+
+	public static void main(String[] args) {
+		//启动
+		//wsy 测试提交
+		SpringApplication.run(Application.class, args);
+	}
+}

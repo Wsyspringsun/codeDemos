@@ -1,0 +1,9 @@
+{
+  "iphone":"1.0.0",
+  "android":"1.0.0",
+  "iphone_update_message":"新版本更新(V1.1.6):\n1.xx功能完善，\n2.添加xx功能",
+  "android_update_message":"新版本更新(V1.1.0):\n1.xx功能完善，\n2.添加xx功能",
+  "iphone_download_link":"",
+  "android_download_link":"https://www.lanjiutian.com/e-commerce_platform_WebService/app/LJT.apk",
+  "android_force_update":""
+}
